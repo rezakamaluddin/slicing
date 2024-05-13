@@ -30,7 +30,7 @@ class SignInPage extends StatelessWidget {
                 child: Text(
                   'Create new account',
                   style: GoogleFonts.inter(
-                      color: const Color(0xFF909FB4), fontSize: 16),
+                      color: const Color(0xFFFFFFFF), fontSize: 16),
                 ),
               )
             ]),
